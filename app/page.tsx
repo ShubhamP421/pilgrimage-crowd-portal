@@ -14,7 +14,7 @@ const temples = [
     location: "Somnath, Gujarat",
     crowdLevel: "high",
     currentVisitors: 2500,
-    image: "/placeholder-uxiop.png",
+    image: "/somnath-temple.jpg",
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const temples = [
     location: "Dwarka, Gujarat",
     crowdLevel: "medium",
     currentVisitors: 1200,
-    image: "/placeholder-9srnp.png",
+    image: "/dwarkadhish -temple.jpeg",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const temples = [
     location: "Ambaji, Gujarat",
     crowdLevel: "low",
     currentVisitors: 800,
-    image: "/placeholder-c9mhc.png",
+    image: "/Ambaji-Temple.jpg",
   },
   {
     id: 4,
@@ -38,7 +38,7 @@ const temples = [
     location: "Pavagadh, Gujarat",
     crowdLevel: "medium",
     currentVisitors: 1500,
-    image: "/placeholder-hliqh.png",
+    image: "/Pavagadh-Temple.webp",
   },
 ]
 
