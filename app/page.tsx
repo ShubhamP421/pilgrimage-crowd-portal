@@ -14,7 +14,7 @@ const temples = [
     location: "Somnath, Gujarat",
     crowdLevel: "high",
     currentVisitors: 2500,
-    image: "/somnath-temple.jpg",
+    image: "/Somnath-temple.jpg",
   },
   {
     id: 2,
